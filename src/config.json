@@ -1,5 +1,5 @@
 {
-  "API_ENDPOINT": "https://i9bd52f2i3.execute-api.us-east-2.amazonaws.com",
+  "API_ENDPOINT": "https://ul6a1onvuk.execute-api.us-east-2.amazonaws.com",
   "ITEM_CACHE": 10000,
   "FLAG_CACHE": 5000
 }
