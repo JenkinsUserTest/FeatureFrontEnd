@@ -1,0 +1,5 @@
+{
+  "API_ENDPOINT": "HttpApiUrl",
+  "ITEM_CACHE": 10000,
+  "FLAG_CACHE": 5000
+}
